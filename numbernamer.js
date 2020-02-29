@@ -269,10 +269,10 @@ for (var i = 0; i < length; i++){
         name.push(nam1 +" trigintillion,")
       }
       else if (digit_ten.toString().length === 97){
-        name.push(nam1 +" untrigintillion,,")
+        name.push(nam1 +" untrigintillion,")
       }
       else if (digit_ten.toString().length === 100){
-        name.push(nam1 +" duotrigintillion,,")
+        name.push(nam1 +" duotrigintillion,")
       }
     }
   }
